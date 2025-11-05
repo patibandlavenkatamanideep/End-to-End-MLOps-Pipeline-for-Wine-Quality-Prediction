@@ -1,0 +1,2 @@
+# End-to-End MLOps Pipeline for Wine Quality Prediction
+This project demonstrates an end-to-end MLOps pipeline for predicting wine quality based on physicochemical attributes. The pipeline covers the complete machine learning lifecycle — from data preprocessing, model training, and evaluation to containerization, deployment, and monitoring — showcasing a production-ready approach to model automation.
